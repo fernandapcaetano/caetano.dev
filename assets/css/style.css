@@ -69,5 +69,9 @@ header .dir{
 }
 main{
     width: 100vw;
-    height: calc(100vh - 60px);
+    height: calc(100vh - 110px);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
