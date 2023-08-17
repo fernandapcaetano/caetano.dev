@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="menu-click.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.4854;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="48.377213"
+       height="48.565811"
+       x="-0.094302565"
+       y="-0.28290766"
+       sodipodi:insensitive="true"
+       inkscape:label="background" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="menu"
+     inkscape:export-filename="menu.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.1266;stroke-linecap:round;stroke-linejoin:round"
+       id="rect2"
+       width="34.841404"
+       height="4.2721548"
+       x="17.079006"
+       y="-5.3443823"
+       ry="2.1360774"
+       inkscape:label="primeiro"
+       transform="matrix(0.63887887,0.76930734,-0.61056076,0.79196942,0,0)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.000553852;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="1.0492292e-07"
+       height="4.2436152"
+       x="-6.5540276"
+       y="16.785854"
+       ry="2.1218076"
+       inkscape:label="meio"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.1;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4"
+       width="34.891945"
+       height="4.2436152"
+       x="-21.304567"
+       y="31.599274"
+       ry="2.1218076"
+       inkscape:label="último"
+       transform="rotate(-51.527781)" />
+  </g>
+</svg>

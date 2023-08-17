@@ -62,6 +62,60 @@ header{
 header #menu, header .dir img{
     cursor: pointer;
 }
+
+/* menu */
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 6px;
+
+    cursor: pointer;
+}
+
+header .esq .menu .barra{
+    background-color: #fff;
+    width: 35px;
+    height: 4px;
+    border-radius: 5px;
+}
+/* menu clicado */
+.menu_clicado{
+    position: relative;
+    left: 16px;
+}
+header .esq .menu_clicado .barra{
+    position: absolute;
+    background-color: #fff;
+    width: 35px;
+    height: 4px;
+    border-radius: 5px;
+}
+header .esq .menu_clicado .topo{
+    transform: rotate(45deg);
+    animation: topo 0.2s;
+}
+@keyframes topo {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(45deg);}
+}
+header .esq .menu_clicado .ultimo{
+    transform: rotate(-45deg);
+    animation: ultimo 0.2s;
+}
+@keyframes ultimo {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(-45deg);}
+}
+header .esq .menu_clicado .meio{
+    width: 0px;
+}
+
+
+
+
+
 header .dir{
     display: flex;
     align-items: center;
